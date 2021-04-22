@@ -31,8 +31,7 @@ Here are some ideas to get you started:
 
 [![Gmail Badge](https://img.shields.io/badge/-vedanthpadigelwar@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vedanthpadigelwar@gmail.com)](mailto:vedanthpadigelwar@gmail.com)
 
-<br />
----
+ ---
 
 I'm a Machine Leanring Engineer, Cloud Architect, and aspining entrepreneur who believes good product just solves your problem but best product changes your way of life.
  
