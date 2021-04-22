@@ -43,6 +43,7 @@ I'm a Machine Leanring Engineer, Cloud Architect, and aspining entrepreneur who 
 - 🌱 I love to build products in conjunction with IOT, Computer vision, deep Learning
  
 <p align="left"><img src="https://github-readme-stats.vercel.app/api?username=vedanthpadigelwar&show_icons=true" alt="vedanthpadigelwar" /></p>
+ 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohit01-beep&layout=compact)](https://github.com/mohit01-beep/github-readme-stats)
 
 <img alt="Visitors" src="https://komarev.com/ghpvc/?username=vedanthpadigelwar&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12"/>
