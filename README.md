@@ -50,6 +50,5 @@ I'm a Machine Leanring Engineer, Cloud Architect, and aspining entrepreneur who 
  
 <p>
 <img src="https://github-readme-stats.vercel.app/api?username=vedanthpadigelwar&show_icons=true" alt="vedanthpadigelwar" />
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohit01-beep&layout=compact)](https://github.com/mohit01-beep/github-readme-stats)
 </p>
