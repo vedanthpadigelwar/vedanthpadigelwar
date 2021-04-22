@@ -18,6 +18,7 @@ Here are some ideas to get you started:
  # Vedanth Padigelwar
  
 📫 How to reach me: ...
+
 <a href="https://twitter.com/VedanthP">
   <img align="left" alt="Mohit's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
