@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
  # Vedanth Padigelwar
  
-- 📫 How to reach me: ...
+📫 How to reach me: ...
 <a href="https://twitter.com/VedanthP">
   <img align="left" alt="Mohit's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -32,22 +32,19 @@ Here are some ideas to get you started:
 
 <br />
 
- 
- <img alt="Visitors" src="https://komarev.com/ghpvc/?username=vedanthpadigelwar&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12"/>
-<img alt="Last Commit" src="https://img.shields.io/github/last-commit/vedanthpadigelwar/vedanthpadigelwar?logo=markdown&label=LAST+UPDATE&color=29bf12&style=flat">
 
 I'm a Machine Leanring Engineer, Cloud Architect, and aspining entrepreneur who believes good product just solves your problem but best product changes your way of life.
  
 - 🔭 I’m currently working on building a app and a retail machine learning application.
-
- - 🌱 I  love to travel, try new food and photography.
-
- - 🌱 I am a currently learning ML in depth and discovering oppurtunities for startup.
-
- - ⚡ Languages: Python3, SQL, Java,Javascript, AWS, VueJS
- - ⚡ Libraries and Frameworks: Numpy, Pandas, Sci-kit Learn, keras, Pytorch, Tensorflow
-
- - 🌱 I love to build products in conjunction with IOT, Computer vision, deep Learning
+- 🌱 I  love to travel, try new food and photography.
+- 🌱 I am a currently learning ML in depth and discovering oppurtunities for startup.
+- ⚡ Languages: Python3, SQL, Java,Javascript, AWS, VueJS
+- ⚡ Libraries and Frameworks: Numpy, Pandas, Sci-kit Learn, keras, Pytorch, Tensorflow
+- 🌱 I love to build products in conjunction with IOT, Computer vision, deep Learning
  
 <p align="left"><img src="https://github-readme-stats.vercel.app/api?username=vedanthpadigelwar&show_icons=true" alt="vedanthpadigelwar" /></p>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vedanthpadigelwar&layout=compact)](https://github.com/vedanthpadigelwar/github-readme-stats)
+
+<img alt="Visitors" src="https://komarev.com/ghpvc/?username=vedanthpadigelwar&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12"/>
+<img alt="Last Commit" src="https://img.shields.io/github/last-commit/vedanthpadigelwar/vedanthpadigelwar?logo=markdown&label=LAST+UPDATE&color=29bf12&style=flat">
+
+- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohit01-beep&layout=compact)](https://github.com/mohit01-beep/github-readme-stats)
