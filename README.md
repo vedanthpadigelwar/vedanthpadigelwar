@@ -19,6 +19,9 @@ Here are some ideas to get you started:
 
  [![Gmail Badge](https://img.shields.io/badge/-vedanthpadigelwar@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vedanthpadigelwar@gmail.com)](mailto:balanaguharshavardhan@gmail.com)
  
+ <img alt="Visitors" src="https://komarev.com/ghpvc/?username=vedanthpadigelwar&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12"/>
+<img alt="Last Commit" src="https://img.shields.io/github/last-commit/vedanthpadigelwar/vedanthpadigelwar?logo=markdown&label=LAST+UPDATE&color=29bf12&style=flat">
+
 I'm a Machine Leanring Engineer, Cloud Architect, and aspining entrepreneur who believes good product just solves your problem but best product changes your way of life.
  
 - 🔭 I’m currently working on building a app and a retail machine learning application.
