@@ -16,8 +16,23 @@ Here are some ideas to get you started:
 -->
 
  # Vedanth Padigelwar
+ 
+- 📫 How to reach me: ...
+<a href="https://twitter.com/VedanthP">
+  <img align="left" alt="Mohit's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/vedanthpadigelwar">
+  <img align="left" alt="Mohit's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/vedanthpadigelwar">
+  <img align="left" alt="vedanthpadigelwar's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="">
+  <img align="left" alt="vedanthpadigelwar's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+</a>
+[![Gmail Badge](https://img.shields.io/badge/-vedanthpadigelwar@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vedanthpadigelwar@gmail.com)](mailto:vedanthpadigelwar@gmail.com)
+<br />
 
- [![Gmail Badge](https://img.shields.io/badge/-vedanthpadigelwar@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vedanthpadigelwar@gmail.com)](mailto:balanaguharshavardhan@gmail.com)
  
  <img alt="Visitors" src="https://komarev.com/ghpvc/?username=vedanthpadigelwar&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12"/>
 <img alt="Last Commit" src="https://img.shields.io/github/last-commit/vedanthpadigelwar/vedanthpadigelwar?logo=markdown&label=LAST+UPDATE&color=29bf12&style=flat">
