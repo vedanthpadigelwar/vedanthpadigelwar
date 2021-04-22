@@ -29,6 +29,12 @@ Here are some ideas to get you started:
   <img align="left" alt="vedanthpadigelwar's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 
+<p align='center'>
+<a href="https://twitter.com/_waylonwalker"><img height="30" src="https://github.com/vedanthpadigelwar/vedanthpadigelwar/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.buymeacoffee.com/bBdtMQO"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/by-me-a-coffee.png?raw=true"></a>
+<a href="https://www.linkedin.com/in/vedanthpadigelwar/"><img height="30" src="https://github.com/vedanthpadigelwar/vedanthpadigelwar/blob/main/icon/linkedin.png?raw=true"></a>
+</p>
+
 [![Gmail Badge](https://img.shields.io/badge/-vedanthpadigelwar@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vedanthpadigelwar@gmail.com)](mailto:vedanthpadigelwar@gmail.com)
 
 <br />
